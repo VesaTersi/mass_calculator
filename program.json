@@ -1,0 +1,6 @@
+{
+  "program": "mass_calculator.aleo",
+  "version": "0.0.100",
+  "description": "Aleo program to calculate the mass based on specific parameters. Created by VesaTersi.",
+  "license": "MIT"
+}
